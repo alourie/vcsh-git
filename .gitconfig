@@ -1,6 +1,6 @@
 [core]
     editor = vim
-    excludesfile = /home/alourie/.gitignore
+    excludesfile = ~/.gitignore
     whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
 [alias]
     co = checkout
